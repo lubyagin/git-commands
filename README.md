@@ -4,3 +4,12 @@
 
 `git clone` - Скопировать дерево файлов из удалённого (remote) Git-каталога
 
+```
+ git clone https://github.com/lubyagin/git-commands.git
+ cd git-commands
+ touch README
+ git add README
+ git commit -m "empty README"
+ git push
+```
+
