@@ -4,6 +4,7 @@
 
 `git clone` - Скопировать дерево файлов из удалённого (remote) Git-каталога
 
+Добавить новый файл:
 ```
  git clone https://github.com/lubyagin/git-commands.git
  cd git-commands
